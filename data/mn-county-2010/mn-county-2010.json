@@ -1,0 +1,16 @@
+{
+  "proj": {
+    "id": "mercator"
+  },
+  "layers": {
+    "counties": {
+      "src": "shp-dp-60/county2010.shp"
+    }
+  },
+  "bounds": {
+    "mode": "polygon",
+    "data": {
+      "layer": "counties"
+    }
+  }
+}
