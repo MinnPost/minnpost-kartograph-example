@@ -1,10 +1,8 @@
 {
-  "proj": {
-    "id": "mercator"
-  },
   "layers": {
     "counties": {
-      "src": "shp-dp-60/county2010.shp"
+      "src": "shp-dp-60-proj-4326/county2010.shp",
+      "attributes": "all"
     }
   },
   "bounds": {
