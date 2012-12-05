@@ -1,0 +1,4 @@
+shapely
+gdal
+pyproj
+https://github.com/kartograph/kartograph.py/zipball/master
