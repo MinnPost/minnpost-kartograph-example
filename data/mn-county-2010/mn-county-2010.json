@@ -3,6 +3,7 @@
     "counties": {
       "src": "shp-dp-60-proj-4326/county2010.shp",
       "attributes": "all"
+      // "simplify": 1,
     }
   },
   "bounds": {
